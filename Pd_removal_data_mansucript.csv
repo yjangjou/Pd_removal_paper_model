@@ -1,0 +1,301 @@
+﻿Compound,Temperature,pH,Solvent 1,Base,Chelator,Chelator_amount,Pd_removal_efficiency
+Palladium(II) acetate,20,8.84,2-methyltetrahydrofuran,Potassium phosphate tribasic,N-acetyl cysteine,5,0.983027834
+Palladium(II) acetate,20,10.33,2-methyltetrahydrofuran,Potassium bicarbonate,N-acetyl cysteine,5,0.983027834
+Palladium(II) acetate,20,10.06,2-methyltetrahydrofuran,Potassium carbonate,N-acetyl cysteine,5,0.983027834
+Palladium(II) acetate,20,12.19,2-methyltetrahydrofuran,Potassium hydroxide,N-acetyl cysteine,5,0.983027834
+Palladium(II) acetate,20,8.84,Toluene,Potassium phosphate tribasic,N-acetyl cysteine,5,0.982935154
+Palladium(II) acetate,20,10.33,Toluene,Potassium bicarbonate,N-acetyl cysteine,5,0.982935154
+Palladium(II) acetate,20,10.06,Toluene,Potassium carbonate,N-acetyl cysteine,5,0.982935154
+Palladium(II) acetate,20,12.19,Toluene,Potassium hydroxide,N-acetyl cysteine,5,0.982935154
+Palladium(II) acetate,20,8.84,Ethyl acetate,Potassium phosphate tribasic,N-acetyl cysteine,5,0.982710927
+Palladium(II) acetate,20,10.33,Ethyl acetate,Potassium bicarbonate,N-acetyl cysteine,5,0.982710927
+Palladium(II) acetate,20,10.06,Ethyl acetate,Potassium carbonate,N-acetyl cysteine,5,0.982710927
+Palladium(II) acetate,20,12.19,Ethyl acetate,Potassium hydroxide,N-acetyl cysteine,5,0.982710927
+Palladium(II) acetate,20,8.84,Methyl isobutyl ketone,Potassium phosphate tribasic,N-acetyl cysteine,5,0.982231699
+Palladium(II) acetate,20,10.33,Methyl isobutyl ketone,Potassium bicarbonate,N-acetyl cysteine,5,0.982231699
+Palladium(II) acetate,20,10.06,Methyl isobutyl ketone,Potassium carbonate,N-acetyl cysteine,5,0.982231699
+Palladium(II) acetate,20,12.19,Methyl isobutyl ketone,Potassium hydroxide,N-acetyl cysteine,5,0.982231699
+Palladium(II) acetate,20,8.84,Cyclopentyl methyl ether,Potassium phosphate tribasic,N-acetyl cysteine,5,0.982282069
+Palladium(II) acetate,20,10.33,Cyclopentyl methyl ether,Potassium bicarbonate,N-acetyl cysteine,5,0.982282069
+Palladium(II) acetate,20,10.06,Cyclopentyl methyl ether,Potassium carbonate,N-acetyl cysteine,5,0.982282069
+Palladium(II) acetate,20,12.19,Cyclopentyl methyl ether,Potassium hydroxide,N-acetyl cysteine,5,0.982282069
+Palladium(II) acetate,20,8.81,2-methyltetrahydrofuran,Potassium phosphate tribasic,N-acetyl cysteine,10,0.983027834
+Palladium(II) acetate,20,10.71,2-methyltetrahydrofuran,Potassium bicarbonate,N-acetyl cysteine,10,0.983027834
+Palladium(II) acetate,20,9.97,2-methyltetrahydrofuran,Potassium carbonate,N-acetyl cysteine,10,0.983027834
+Palladium(II) acetate,20,12.24,2-methyltetrahydrofuran,Potassium hydroxide,N-acetyl cysteine,10,0.983027834
+Palladium(II) acetate,20,8.81,Toluene,Potassium phosphate tribasic,N-acetyl cysteine,10,0.982935154
+Palladium(II) acetate,20,10.71,Toluene,Potassium bicarbonate,N-acetyl cysteine,10,0.982935154
+Palladium(II) acetate,20,9.97,Toluene,Potassium carbonate,N-acetyl cysteine,10,0.982935154
+Palladium(II) acetate,20,12.24,Toluene,Potassium hydroxide,N-acetyl cysteine,10,0.982935154
+Palladium(II) acetate,20,8.81,Ethyl acetate,Potassium phosphate tribasic,N-acetyl cysteine,10,0.982710927
+Palladium(II) acetate,20,10.71,Ethyl acetate,Potassium bicarbonate,N-acetyl cysteine,10,0.982710927
+Palladium(II) acetate,20,9.97,Ethyl acetate,Potassium carbonate,N-acetyl cysteine,10,0.982710927
+Palladium(II) acetate,20,12.24,Ethyl acetate,Potassium hydroxide,N-acetyl cysteine,10,0.982710927
+Palladium(II) acetate,20,8.81,Methyl isobutyl ketone,Potassium phosphate tribasic,N-acetyl cysteine,10,0.982231699
+Palladium(II) acetate,20,10.71,Methyl isobutyl ketone,Potassium bicarbonate,N-acetyl cysteine,10,0.982231699
+Palladium(II) acetate,20,9.97,Methyl isobutyl ketone,Potassium carbonate,N-acetyl cysteine,10,0.982231699
+Palladium(II) acetate,20,12.24,Methyl isobutyl ketone,Potassium hydroxide,N-acetyl cysteine,10,0.982231699
+Palladium(II) acetate,20,8.81,Cyclopentyl methyl ether,Potassium phosphate tribasic,N-acetyl cysteine,10,0.982282069
+Palladium(II) acetate,20,10.71,Cyclopentyl methyl ether,Potassium bicarbonate,N-acetyl cysteine,10,0.982282069
+Palladium(II) acetate,20,9.97,Cyclopentyl methyl ether,Potassium carbonate,N-acetyl cysteine,10,0.982282069
+Palladium(II) acetate,20,12.24,Cyclopentyl methyl ether,Potassium hydroxide,N-acetyl cysteine,10,0.982282069
+Palladium(II) acetate,20,8.92,2-methyltetrahydrofuran,Potassium phosphate tribasic,Thiosalicylic Acid,5,0.983027834
+Palladium(II) acetate,20,10.18,2-methyltetrahydrofuran,Potassium bicarbonate,Thiosalicylic Acid,5,0.983027834
+Palladium(II) acetate,20,10.09,2-methyltetrahydrofuran,Potassium carbonate,Thiosalicylic Acid,5,0.983027834
+Palladium(II) acetate,20,12.16,2-methyltetrahydrofuran,Potassium hydroxide,Thiosalicylic Acid,5,0.983027834
+Palladium(II) acetate,20,8.92,Toluene,Potassium phosphate tribasic,Thiosalicylic Acid,5,0.982935154
+Palladium(II) acetate,20,10.18,Toluene,Potassium bicarbonate,Thiosalicylic Acid,5,0.982935154
+Palladium(II) acetate,20,10.09,Toluene,Potassium carbonate,Thiosalicylic Acid,5,0.982935154
+Palladium(II) acetate,20,12.16,Toluene,Potassium hydroxide,Thiosalicylic Acid,5,0.982935154
+Palladium(II) acetate,20,8.92,Ethyl acetate,Potassium phosphate tribasic,Thiosalicylic Acid,5,0.982710927
+Palladium(II) acetate,20,10.18,Ethyl acetate,Potassium bicarbonate,Thiosalicylic Acid,5,0.982710927
+Palladium(II) acetate,20,10.09,Ethyl acetate,Potassium carbonate,Thiosalicylic Acid,5,0.982710927
+Palladium(II) acetate,20,12.16,Ethyl acetate,Potassium hydroxide,Thiosalicylic Acid,5,0.982710927
+Palladium(II) acetate,20,8.92,Methyl isobutyl ketone,Potassium phosphate tribasic,Thiosalicylic Acid,5,0.940298507
+Palladium(II) acetate,20,10.18,Methyl isobutyl ketone,Potassium bicarbonate,Thiosalicylic Acid,5,0.982231699
+Palladium(II) acetate,20,10.09,Methyl isobutyl ketone,Potassium carbonate,Thiosalicylic Acid,5,0.982231699
+Palladium(II) acetate,20,12.16,Methyl isobutyl ketone,Potassium hydroxide,Thiosalicylic Acid,5,0.982231699
+Palladium(II) acetate,20,8.92,Cyclopentyl methyl ether,Potassium phosphate tribasic,Thiosalicylic Acid,5,0.982282069
+Palladium(II) acetate,20,10.18,Cyclopentyl methyl ether,Potassium bicarbonate,Thiosalicylic Acid,5,0.982282069
+Palladium(II) acetate,20,10.09,Cyclopentyl methyl ether,Potassium carbonate,Thiosalicylic Acid,5,0.982282069
+Palladium(II) acetate,20,12.16,Cyclopentyl methyl ether,Potassium hydroxide,Thiosalicylic Acid,5,0.982282069
+Palladium(II) acetate,20,8.92,2-methyltetrahydrofuran,Potassium phosphate tribasic,Thiosalicylic Acid,10,0.983027834
+Palladium(II) acetate,20,10.57,2-methyltetrahydrofuran,Potassium bicarbonate,Thiosalicylic Acid,10,0.983027834
+Palladium(II) acetate,20,9.96,2-methyltetrahydrofuran,Potassium carbonate,Thiosalicylic Acid,10,0.983027834
+Palladium(II) acetate,20,12.24,2-methyltetrahydrofuran,Potassium hydroxide,Thiosalicylic Acid,10,0.983027834
+Palladium(II) acetate,20,8.92,Toluene,Potassium phosphate tribasic,Thiosalicylic Acid,10,0.982935154
+Palladium(II) acetate,20,10.57,Toluene,Potassium bicarbonate,Thiosalicylic Acid,10,0.971843003
+Palladium(II) acetate,20,9.96,Toluene,Potassium carbonate,Thiosalicylic Acid,10,0.982935154
+Palladium(II) acetate,20,12.24,Toluene,Potassium hydroxide,Thiosalicylic Acid,10,0.982935154
+Palladium(II) acetate,20,8.92,Ethyl acetate,Potassium phosphate tribasic,Thiosalicylic Acid,10,0.982710927
+Palladium(II) acetate,20,10.57,Ethyl acetate,Potassium bicarbonate,Thiosalicylic Acid,10,0.982710927
+Palladium(II) acetate,20,9.96,Ethyl acetate,Potassium carbonate,Thiosalicylic Acid,10,0.982710927
+Palladium(II) acetate,20,12.24,Ethyl acetate,Potassium hydroxide,Thiosalicylic Acid,10,0.982710927
+Palladium(II) acetate,20,8.92,Methyl isobutyl ketone,Potassium phosphate tribasic,Thiosalicylic Acid,10,0.968905473
+Palladium(II) acetate,20,10.57,Methyl isobutyl ketone,Potassium bicarbonate,Thiosalicylic Acid,10,0.982231699
+Palladium(II) acetate,20,9.96,Methyl isobutyl ketone,Potassium carbonate,Thiosalicylic Acid,10,0.982231699
+Palladium(II) acetate,20,12.24,Methyl isobutyl ketone,Potassium hydroxide,Thiosalicylic Acid,10,0.958599858
+Palladium(II) acetate,20,8.92,Cyclopentyl methyl ether,Potassium phosphate tribasic,Thiosalicylic Acid,10,0.982282069
+Palladium(II) acetate,20,10.57,Cyclopentyl methyl ether,Potassium bicarbonate,Thiosalicylic Acid,10,0.982282069
+Palladium(II) acetate,20,9.96,Cyclopentyl methyl ether,Potassium carbonate,Thiosalicylic Acid,10,0.982282069
+Palladium(II) acetate,20,12.24,Cyclopentyl methyl ether,Potassium hydroxide,Thiosalicylic Acid,10,0.982282069
+Palladium(II) acetate,20,9.30,2-methyltetrahydrofuran,Potassium phosphate tribasic,Sodium diethyldithiocarbamate,5,0.695858792
+Palladium(II) acetate,20,11.13,2-methyltetrahydrofuran,Potassium bicarbonate,Sodium diethyldithiocarbamate,5,0.668873048
+Palladium(II) acetate,20,10.39,2-methyltetrahydrofuran,Potassium carbonate,Sodium diethyldithiocarbamate,5,0.693143245
+Palladium(II) acetate,20,12.19,2-methyltetrahydrofuran,Potassium hydroxide,Sodium diethyldithiocarbamate,5,0.677698574
+Palladium(II) acetate,20,9.30,Toluene,Potassium phosphate tribasic,Sodium diethyldithiocarbamate,5,0.660921502
+Palladium(II) acetate,20,11.13,Toluene,Potassium bicarbonate,Sodium diethyldithiocarbamate,5,0.640955631
+Palladium(II) acetate,20,10.39,Toluene,Potassium carbonate,Sodium diethyldithiocarbamate,5,0.559044369
+Palladium(II) acetate,20,12.19,Toluene,Potassium hydroxide,Sodium diethyldithiocarbamate,5,0.832764505
+Palladium(II) acetate,20,9.30,Ethyl acetate,Potassium phosphate tribasic,Sodium diethyldithiocarbamate,5,0.699170124
+Palladium(II) acetate,20,11.13,Ethyl acetate,Potassium bicarbonate,Sodium diethyldithiocarbamate,5,0.782157676
+Palladium(II) acetate,20,10.39,Ethyl acetate,Potassium carbonate,Sodium diethyldithiocarbamate,5,0.726141079
+Palladium(II) acetate,20,12.19,Ethyl acetate,Potassium hydroxide,Sodium diethyldithiocarbamate,5,0.723201936
+Palladium(II) acetate,20,9.30,Methyl isobutyl ketone,Potassium phosphate tribasic,Sodium diethyldithiocarbamate,5,0.567341862
+Palladium(II) acetate,20,11.13,Methyl isobutyl ketone,Potassium bicarbonate,Sodium diethyldithiocarbamate,5,0.668798863
+Palladium(II) acetate,20,10.39,Methyl isobutyl ketone,Potassium carbonate,Sodium diethyldithiocarbamate,5,0.733084577
+Palladium(II) acetate,20,12.19,Methyl isobutyl ketone,Potassium hydroxide,Sodium diethyldithiocarbamate,5,0.663823738
+Palladium(II) acetate,20,9.30,Cyclopentyl methyl ether,Potassium phosphate tribasic,Sodium diethyldithiocarbamate,5,0.799078668
+Palladium(II) acetate,20,11.13,Cyclopentyl methyl ether,Potassium bicarbonate,Sodium diethyldithiocarbamate,5,0.82654146
+Palladium(II) acetate,20,10.39,Cyclopentyl methyl ether,Potassium carbonate,Sodium diethyldithiocarbamate,5,0.735116938
+Palladium(II) acetate,20,12.19,Cyclopentyl methyl ether,Potassium hydroxide,Sodium diethyldithiocarbamate,5,0.87491141
+Palladium(II) acetate,20,9.17,2-methyltetrahydrofuran,Potassium phosphate tribasic,Sodium diethyldithiocarbamate,10,0.636795655
+Palladium(II) acetate,20,11.56,2-methyltetrahydrofuran,Potassium bicarbonate,Sodium diethyldithiocarbamate,10,0.689748812
+Palladium(II) acetate,20,10.61,2-methyltetrahydrofuran,Potassium carbonate,Sodium diethyldithiocarbamate,10,0.777834352
+Palladium(II) acetate,20,12.24,2-methyltetrahydrofuran,Potassium hydroxide,Sodium diethyldithiocarbamate,10,0.716564834
+Palladium(II) acetate,20,9.17,Toluene,Potassium phosphate tribasic,Sodium diethyldithiocarbamate,10,0.624914676
+Palladium(II) acetate,20,11.56,Toluene,Potassium bicarbonate,Sodium diethyldithiocarbamate,10,0.676791809
+Palladium(II) acetate,20,10.61,Toluene,Potassium carbonate,Sodium diethyldithiocarbamate,10,0.695733788
+Palladium(II) acetate,20,12.24,Toluene,Potassium hydroxide,Sodium diethyldithiocarbamate,10,0.777133106
+Palladium(II) acetate,20,9.17,Ethyl acetate,Potassium phosphate tribasic,Sodium diethyldithiocarbamate,10,0.790456432
+Palladium(II) acetate,20,11.56,Ethyl acetate,Potassium bicarbonate,Sodium diethyldithiocarbamate,10,0.761410788
+Palladium(II) acetate,20,10.61,Ethyl acetate,Potassium carbonate,Sodium diethyldithiocarbamate,10,0.703388658
+Palladium(II) acetate,20,12.24,Ethyl acetate,Potassium hydroxide,Sodium diethyldithiocarbamate,10,0.751383126
+Palladium(II) acetate,20,9.17,Methyl isobutyl ketone,Potassium phosphate tribasic,Sodium diethyldithiocarbamate,10,0.773276475
+Palladium(II) acetate,20,11.56,Methyl isobutyl ketone,Potassium bicarbonate,Sodium diethyldithiocarbamate,10,0.659914712
+Palladium(II) acetate,20,10.61,Methyl isobutyl ketone,Potassium carbonate,Sodium diethyldithiocarbamate,10,0.583866382
+Palladium(II) acetate,20,12.24,Methyl isobutyl ketone,Potassium hydroxide,Sodium diethyldithiocarbamate,10,0.589552239
+Palladium(II) acetate,20,9.17,Cyclopentyl methyl ether,Potassium phosphate tribasic,Sodium diethyldithiocarbamate,10,0.737420269
+Palladium(II) acetate,20,11.56,Cyclopentyl methyl ether,Potassium bicarbonate,Sodium diethyldithiocarbamate,10,0.780120482
+Palladium(II) acetate,20,10.61,Cyclopentyl methyl ether,Potassium carbonate,Sodium diethyldithiocarbamate,10,0.722360028
+Palladium(II) acetate,20,12.24,Cyclopentyl methyl ether,Potassium hydroxide,Sodium diethyldithiocarbamate,10,0.897590361
+Palladium(II) acetate,40,11.71,2-methyltetrahydrofuran,Potassium phosphate tribasic,N-acetyl cysteine,5,0.983355526
+Palladium(II) acetate,40,8.83,2-methyltetrahydrofuran,Potassium bicarbonate,N-acetyl cysteine,5,0.983355526
+Palladium(II) acetate,40,9.86,2-methyltetrahydrofuran,Potassium carbonate,N-acetyl cysteine,5,0.983355526
+Palladium(II) acetate,40,12.45,2-methyltetrahydrofuran,Potassium hydroxide,N-acetyl cysteine,5,0.983355526
+Palladium(II) acetate,40,11.71,Toluene,Potassium phosphate tribasic,N-acetyl cysteine,5,0.982431483
+Palladium(II) acetate,40,8.83,Toluene,Potassium bicarbonate,N-acetyl cysteine,5,0.982431483
+Palladium(II) acetate,40,9.86,Toluene,Potassium carbonate,N-acetyl cysteine,5,0.982431483
+Palladium(II) acetate,40,12.45,Toluene,Potassium hydroxide,N-acetyl cysteine,5,0.982431483
+Palladium(II) acetate,40,11.71,Ethyl acetate,Potassium phosphate tribasic,N-acetyl cysteine,5,0.982517483
+Palladium(II) acetate,40,8.83,Ethyl acetate,Potassium bicarbonate,N-acetyl cysteine,5,0.982517483
+Palladium(II) acetate,40,9.86,Ethyl acetate,Potassium carbonate,N-acetyl cysteine,5,0.982517483
+Palladium(II) acetate,40,12.45,Ethyl acetate,Potassium hydroxide,N-acetyl cysteine,5,0.982517483
+Palladium(II) acetate,40,11.71,Methyl isobutyl ketone,Potassium phosphate tribasic,N-acetyl cysteine,5,0.983128058
+Palladium(II) acetate,40,8.83,Methyl isobutyl ketone,Potassium bicarbonate,N-acetyl cysteine,5,0.983128058
+Palladium(II) acetate,40,9.86,Methyl isobutyl ketone,Potassium carbonate,N-acetyl cysteine,5,0.983128058
+Palladium(II) acetate,40,12.45,Methyl isobutyl ketone,Potassium hydroxide,N-acetyl cysteine,5,0.983128058
+Palladium(II) acetate,40,11.71,Cyclopentyl methyl ether,Potassium phosphate tribasic,N-acetyl cysteine,5,0.982853224
+Palladium(II) acetate,40,8.83,Cyclopentyl methyl ether,Potassium bicarbonate,N-acetyl cysteine,5,0.982853224
+Palladium(II) acetate,40,9.86,Cyclopentyl methyl ether,Potassium carbonate,N-acetyl cysteine,5,0.982853224
+Palladium(II) acetate,40,12.45,Cyclopentyl methyl ether,Potassium hydroxide,N-acetyl cysteine,5,0.982853224
+Palladium(II) acetate,40,9.50,2-methyltetrahydrofuran,Potassium phosphate tribasic,N-acetyl cysteine,10,0.983355526
+Palladium(II) acetate,40,8.37,2-methyltetrahydrofuran,Potassium bicarbonate,N-acetyl cysteine,10,0.983355526
+Palladium(II) acetate,40,9.79,2-methyltetrahydrofuran,Potassium carbonate,N-acetyl cysteine,10,0.983355526
+Palladium(II) acetate,40,12.81,2-methyltetrahydrofuran,Potassium hydroxide,N-acetyl cysteine,10,0.983355526
+Palladium(II) acetate,40,9.50,Toluene,Potassium phosphate tribasic,N-acetyl cysteine,10,0.982431483
+Palladium(II) acetate,40,8.37,Toluene,Potassium bicarbonate,N-acetyl cysteine,10,0.982431483
+Palladium(II) acetate,40,9.79,Toluene,Potassium carbonate,N-acetyl cysteine,10,0.982431483
+Palladium(II) acetate,40,12.81,Toluene,Potassium hydroxide,N-acetyl cysteine,10,0.982431483
+Palladium(II) acetate,40,9.50,Ethyl acetate,Potassium phosphate tribasic,N-acetyl cysteine,10,0.982517483
+Palladium(II) acetate,40,8.37,Ethyl acetate,Potassium bicarbonate,N-acetyl cysteine,10,0.982517483
+Palladium(II) acetate,40,9.79,Ethyl acetate,Potassium carbonate,N-acetyl cysteine,10,0.982517483
+Palladium(II) acetate,40,12.81,Ethyl acetate,Potassium hydroxide,N-acetyl cysteine,10,0.982517483
+Palladium(II) acetate,40,9.50,Methyl isobutyl ketone,Potassium phosphate tribasic,N-acetyl cysteine,10,0.983128058
+Palladium(II) acetate,40,8.37,Methyl isobutyl ketone,Potassium bicarbonate,N-acetyl cysteine,10,0.983128058
+Palladium(II) acetate,40,9.79,Methyl isobutyl ketone,Potassium carbonate,N-acetyl cysteine,10,0.983128058
+Palladium(II) acetate,40,12.81,Methyl isobutyl ketone,Potassium hydroxide,N-acetyl cysteine,10,0.983128058
+Palladium(II) acetate,40,9.50,Cyclopentyl methyl ether,Potassium phosphate tribasic,N-acetyl cysteine,10,0.982853224
+Palladium(II) acetate,40,8.37,Cyclopentyl methyl ether,Potassium bicarbonate,N-acetyl cysteine,10,0.982853224
+Palladium(II) acetate,40,9.79,Cyclopentyl methyl ether,Potassium carbonate,N-acetyl cysteine,10,0.982853224
+Palladium(II) acetate,40,12.81,Cyclopentyl methyl ether,Potassium hydroxide,N-acetyl cysteine,10,0.982853224
+Palladium(II) acetate,40,10.03,2-methyltetrahydrofuran,Potassium phosphate tribasic,Thiosalicylic Acid,5,0.983355526
+Palladium(II) acetate,40,8.56,2-methyltetrahydrofuran,Potassium bicarbonate,Thiosalicylic Acid,5,0.983355526
+Palladium(II) acetate,40,9.96,2-methyltetrahydrofuran,Potassium carbonate,Thiosalicylic Acid,5,0.983355526
+Palladium(II) acetate,40,12.58,2-methyltetrahydrofuran,Potassium hydroxide,Thiosalicylic Acid,5,0.983355526
+Palladium(II) acetate,40,10.03,Toluene,Potassium phosphate tribasic,Thiosalicylic Acid,5,0.982431483
+Palladium(II) acetate,40,8.56,Toluene,Potassium bicarbonate,Thiosalicylic Acid,5,0.982431483
+Palladium(II) acetate,40,9.96,Toluene,Potassium carbonate,Thiosalicylic Acid,5,0.982431483
+Palladium(II) acetate,40,12.58,Toluene,Potassium hydroxide,Thiosalicylic Acid,5,0.982431483
+Palladium(II) acetate,40,10.03,Ethyl acetate,Potassium phosphate tribasic,Thiosalicylic Acid,5,0.982517483
+Palladium(II) acetate,40,8.56,Ethyl acetate,Potassium bicarbonate,Thiosalicylic Acid,5,0.982517483
+Palladium(II) acetate,40,9.96,Ethyl acetate,Potassium carbonate,Thiosalicylic Acid,5,0.982517483
+Palladium(II) acetate,40,12.58,Ethyl acetate,Potassium hydroxide,Thiosalicylic Acid,5,0.982517483
+Palladium(II) acetate,40,10.03,Methyl isobutyl ketone,Potassium phosphate tribasic,Thiosalicylic Acid,5,0.983128058
+Palladium(II) acetate,40,8.56,Methyl isobutyl ketone,Potassium bicarbonate,Thiosalicylic Acid,5,0.983128058
+Palladium(II) acetate,40,9.96,Methyl isobutyl ketone,Potassium carbonate,Thiosalicylic Acid,5,0.983128058
+Palladium(II) acetate,40,12.58,Methyl isobutyl ketone,Potassium hydroxide,Thiosalicylic Acid,5,0.983128058
+Palladium(II) acetate,40,10.03,Cyclopentyl methyl ether,Potassium phosphate tribasic,Thiosalicylic Acid,5,0.982853224
+Palladium(II) acetate,40,8.56,Cyclopentyl methyl ether,Potassium bicarbonate,Thiosalicylic Acid,5,0.982853224
+Palladium(II) acetate,40,9.96,Cyclopentyl methyl ether,Potassium carbonate,Thiosalicylic Acid,5,0.982853224
+Palladium(II) acetate,40,12.58,Cyclopentyl methyl ether,Potassium hydroxide,Thiosalicylic Acid,5,0.982853224
+Palladium(II) acetate,40,6.82,2-methyltetrahydrofuran,Potassium phosphate tribasic,Thiosalicylic Acid,10,0.983355526
+Palladium(II) acetate,40,8.75,2-methyltetrahydrofuran,Potassium bicarbonate,Thiosalicylic Acid,10,0.983355526
+Palladium(II) acetate,40,9.95,2-methyltetrahydrofuran,Potassium carbonate,Thiosalicylic Acid,10,0.983355526
+Palladium(II) acetate,40,12.70,2-methyltetrahydrofuran,Potassium hydroxide,Thiosalicylic Acid,10,0.983355526
+Palladium(II) acetate,40,6.82,Toluene,Potassium phosphate tribasic,Thiosalicylic Acid,10,0.982431483
+Palladium(II) acetate,40,8.75,Toluene,Potassium bicarbonate,Thiosalicylic Acid,10,0.982431483
+Palladium(II) acetate,40,9.95,Toluene,Potassium carbonate,Thiosalicylic Acid,10,0.982431483
+Palladium(II) acetate,40,12.70,Toluene,Potassium hydroxide,Thiosalicylic Acid,10,0.982431483
+Palladium(II) acetate,40,6.82,Ethyl acetate,Potassium phosphate tribasic,Thiosalicylic Acid,10,0.982517483
+Palladium(II) acetate,40,8.75,Ethyl acetate,Potassium bicarbonate,Thiosalicylic Acid,10,0.982517483
+Palladium(II) acetate,40,9.95,Ethyl acetate,Potassium carbonate,Thiosalicylic Acid,10,0.982517483
+Palladium(II) acetate,40,12.70,Ethyl acetate,Potassium hydroxide,Thiosalicylic Acid,10,0.982517483
+Palladium(II) acetate,40,6.82,Methyl isobutyl ketone,Potassium phosphate tribasic,Thiosalicylic Acid,10,0.983128058
+Palladium(II) acetate,40,8.75,Methyl isobutyl ketone,Potassium bicarbonate,Thiosalicylic Acid,10,0.983128058
+Palladium(II) acetate,40,9.95,Methyl isobutyl ketone,Potassium carbonate,Thiosalicylic Acid,10,0.983128058
+Palladium(II) acetate,40,12.70,Methyl isobutyl ketone,Potassium hydroxide,Thiosalicylic Acid,10,0.983128058
+Palladium(II) acetate,40,6.82,Cyclopentyl methyl ether,Potassium phosphate tribasic,Thiosalicylic Acid,10,0.982853224
+Palladium(II) acetate,40,8.75,Cyclopentyl methyl ether,Potassium bicarbonate,Thiosalicylic Acid,10,0.982853224
+Palladium(II) acetate,40,9.95,Cyclopentyl methyl ether,Potassium carbonate,Thiosalicylic Acid,10,0.982853224
+Palladium(II) acetate,40,12.70,Cyclopentyl methyl ether,Potassium hydroxide,Thiosalicylic Acid,10,0.982853224
+Palladium(II) acetate,40,11.79,2-methyltetrahydrofuran,Potassium phosphate tribasic,Sodium diethyldithiocarbamate,5,0.534137816
+Palladium(II) acetate,40,9.09,2-methyltetrahydrofuran,Potassium bicarbonate,Sodium diethyldithiocarbamate,5,0.60159787
+Palladium(II) acetate,40,10.91,2-methyltetrahydrofuran,Potassium carbonate,Sodium diethyldithiocarbamate,5,0.64289281
+Palladium(II) acetate,40,12.71,2-methyltetrahydrofuran,Potassium hydroxide,Sodium diethyldithiocarbamate,5,0.565962051
+Palladium(II) acetate,40,11.79,Toluene,Potassium phosphate tribasic,Sodium diethyldithiocarbamate,5,0.660558679
+Palladium(II) acetate,40,9.09,Toluene,Potassium bicarbonate,Sodium diethyldithiocarbamate,5,0.752881237
+Palladium(II) acetate,40,10.91,Toluene,Potassium carbonate,Sodium diethyldithiocarbamate,5,0.59952565
+Palladium(II) acetate,40,12.71,Toluene,Potassium hydroxide,Sodium diethyldithiocarbamate,5,0.532132818
+Palladium(II) acetate,40,11.79,Ethyl acetate,Potassium phosphate tribasic,Sodium diethyldithiocarbamate,5,0.752902098
+Palladium(II) acetate,40,9.09,Ethyl acetate,Potassium bicarbonate,Sodium diethyldithiocarbamate,5,0.785034965
+Palladium(II) acetate,40,10.91,Ethyl acetate,Potassium carbonate,Sodium diethyldithiocarbamate,5,0.664055944
+Palladium(II) acetate,40,12.71,Ethyl acetate,Potassium hydroxide,Sodium diethyldithiocarbamate,5,0.728146853
+Palladium(II) acetate,40,11.79,Methyl isobutyl ketone,Potassium phosphate tribasic,Sodium diethyldithiocarbamate,5,0.550632698
+Palladium(II) acetate,40,9.09,Methyl isobutyl ketone,Potassium bicarbonate,Sodium diethyldithiocarbamate,5,0.59139531
+Palladium(II) acetate,40,10.91,Methyl isobutyl ketone,Potassium carbonate,Sodium diethyldithiocarbamate,5,0.620195715
+Palladium(II) acetate,40,12.71,Methyl isobutyl ketone,Potassium hydroxide,Sodium diethyldithiocarbamate,5,0.609650751
+Palladium(II) acetate,40,11.79,Cyclopentyl methyl ether,Potassium phosphate tribasic,Sodium diethyldithiocarbamate,5,0.635150892
+Palladium(II) acetate,40,9.09,Cyclopentyl methyl ether,Potassium bicarbonate,Sodium diethyldithiocarbamate,5,0.670387517
+Palladium(II) acetate,40,10.91,Cyclopentyl methyl ether,Potassium carbonate,Sodium diethyldithiocarbamate,5,0.652949246
+Palladium(II) acetate,40,12.71,Cyclopentyl methyl ether,Potassium hydroxide,Sodium diethyldithiocarbamate,5,0.63223594
+Palladium(II) acetate,40,11.87,2-methyltetrahydrofuran,Potassium phosphate tribasic,Sodium diethyldithiocarbamate,10,0.617792943
+Palladium(II) acetate,40,8.82,2-methyltetrahydrofuran,Potassium bicarbonate,Sodium diethyldithiocarbamate,10,0.784670439
+Palladium(II) acetate,40,10.63,2-methyltetrahydrofuran,Potassium carbonate,Sodium diethyldithiocarbamate,10,0.65126498
+Palladium(II) acetate,40,12.87,2-methyltetrahydrofuran,Potassium hydroxide,Sodium diethyldithiocarbamate,10,0.353345539
+Palladium(II) acetate,40,11.87,Toluene,Potassium phosphate tribasic,Sodium diethyldithiocarbamate,10,0.51800773
+Palladium(II) acetate,40,8.82,Toluene,Potassium bicarbonate,Sodium diethyldithiocarbamate,10,0.819747013
+Palladium(II) acetate,40,10.63,Toluene,Potassium carbonate,Sodium diethyldithiocarbamate,10,0.559785664
+Palladium(II) acetate,40,12.87,Toluene,Potassium hydroxide,Sodium diethyldithiocarbamate,10,0.628812368
+Palladium(II) acetate,40,11.87,Ethyl acetate,Potassium phosphate tribasic,Sodium diethyldithiocarbamate,10,0.770769231
+Palladium(II) acetate,40,8.82,Ethyl acetate,Potassium bicarbonate,Sodium diethyldithiocarbamate,10,0.753688811
+Palladium(II) acetate,40,10.63,Ethyl acetate,Potassium carbonate,Sodium diethyldithiocarbamate,10,0.709895105
+Palladium(II) acetate,40,12.87,Ethyl acetate,Potassium hydroxide,Sodium diethyldithiocarbamate,10,0.765681818
+Palladium(II) acetate,40,11.87,Methyl isobutyl ketone,Potassium phosphate tribasic,Sodium diethyldithiocarbamate,10,0.779112536
+Palladium(II) acetate,40,8.82,Methyl isobutyl ketone,Potassium bicarbonate,Sodium diethyldithiocarbamate,10,0.798127214
+Palladium(II) acetate,40,10.63,Methyl isobutyl ketone,Potassium carbonate,Sodium diethyldithiocarbamate,10,0.510123165
+Palladium(II) acetate,40,12.87,Methyl isobutyl ketone,Potassium hydroxide,Sodium diethyldithiocarbamate,10,0.532562848
+Palladium(II) acetate,40,11.87,Cyclopentyl methyl ether,Potassium phosphate tribasic,Sodium diethyldithiocarbamate,10,0.624005487
+Palladium(II) acetate,40,8.82,Cyclopentyl methyl ether,Potassium bicarbonate,Sodium diethyldithiocarbamate,10,0.709687929
+Palladium(II) acetate,40,10.63,Cyclopentyl methyl ether,Potassium carbonate,Sodium diethyldithiocarbamate,10,0.675771605
+Palladium(II) acetate,40,12.87,Cyclopentyl methyl ether,Potassium hydroxide,Sodium diethyldithiocarbamate,10,0.739231824
+Palladium(II) acetate,20,8.14,2-methyltetrahydrofuran,Potassium phosphate tribasic,N-acetyl cysteine,1,0.983355526
+Palladium(II) acetate,20,9.35,2-methyltetrahydrofuran,Potassium bicarbonate,N-acetyl cysteine,1,0.983355526
+Palladium(II) acetate,20,9.83,2-methyltetrahydrofuran,Potassium carbonate,N-acetyl cysteine,1,0.983355526
+Palladium(II) acetate,20,11.79,2-methyltetrahydrofuran,Potassium hydroxide,N-acetyl cysteine,1,0.983355526
+Palladium(II) acetate,20,8.14,Toluene,Potassium phosphate tribasic,N-acetyl cysteine,1,0.982431483
+Palladium(II) acetate,20,9.35,Toluene,Potassium bicarbonate,N-acetyl cysteine,1,0.982431483
+Palladium(II) acetate,20,9.83,Toluene,Potassium carbonate,N-acetyl cysteine,1,0.982431483
+Palladium(II) acetate,20,11.79,Toluene,Potassium hydroxide,N-acetyl cysteine,1,0.982431483
+Palladium(II) acetate,20,8.14,Ethyl acetate,Potassium phosphate tribasic,N-acetyl cysteine,1,0.982517483
+Palladium(II) acetate,20,9.35,Ethyl acetate,Potassium bicarbonate,N-acetyl cysteine,1,0.982517483
+Palladium(II) acetate,20,9.83,Ethyl acetate,Potassium carbonate,N-acetyl cysteine,1,0.982517483
+Palladium(II) acetate,20,11.79,Ethyl acetate,Potassium hydroxide,N-acetyl cysteine,1,0.982517483
+Palladium(II) acetate,20,8.14,Methyl isobutyl ketone,Potassium phosphate tribasic,N-acetyl cysteine,1,0.983128058
+Palladium(II) acetate,20,9.35,Methyl isobutyl ketone,Potassium bicarbonate,N-acetyl cysteine,1,0.983128058
+Palladium(II) acetate,20,9.83,Methyl isobutyl ketone,Potassium carbonate,N-acetyl cysteine,1,0.983128058
+Palladium(II) acetate,20,11.79,Methyl isobutyl ketone,Potassium hydroxide,N-acetyl cysteine,1,0.983128058
+Palladium(II) acetate,20,8.14,Cyclopentyl methyl ether,Potassium phosphate tribasic,N-acetyl cysteine,1,0.982853224
+Palladium(II) acetate,20,9.35,Cyclopentyl methyl ether,Potassium bicarbonate,N-acetyl cysteine,1,0.982853224
+Palladium(II) acetate,20,9.83,Cyclopentyl methyl ether,Potassium carbonate,N-acetyl cysteine,1,0.982853224
+Palladium(II) acetate,20,11.79,Cyclopentyl methyl ether,Potassium hydroxide,N-acetyl cysteine,1,0.982853224
+Bis[tris(2-methylphenyl)phosphine]palladium(0) ,20,11.36,2-methyltetrahydrofuran,Potassium phosphate tribasic,Sodium diethyldithiocarbamate,5,0.943683616
+Bis[tris(2-methylphenyl)phosphine]palladium(0) ,20,9.23,2-methyltetrahydrofuran,Potassium bicarbonate,Sodium diethyldithiocarbamate,5,0.958367232
+Bis[tris(2-methylphenyl)phosphine]palladium(0) ,20,10.39,2-methyltetrahydrofuran,Potassium carbonate,Sodium diethyldithiocarbamate,5,0.907717514
+Bis[tris(2-methylphenyl)phosphine]palladium(0) ,20,12.64,2-methyltetrahydrofuran,Potassium hydroxide,Sodium diethyldithiocarbamate,5,0.964536723
+Bis[tris(2-methylphenyl)phosphine]palladium(0) ,20,11.36,Toluene,Potassium phosphate tribasic,Sodium diethyldithiocarbamate,5,0.946013514
+Bis[tris(2-methylphenyl)phosphine]palladium(0) ,20,9.23,Toluene,Potassium bicarbonate,Sodium diethyldithiocarbamate,5,0.928868243
+Bis[tris(2-methylphenyl)phosphine]palladium(0) ,20,10.39,Toluene,Potassium carbonate,Sodium diethyldithiocarbamate,5,0.939031532
+Bis[tris(2-methylphenyl)phosphine]palladium(0) ,20,12.64,Toluene,Potassium hydroxide,Sodium diethyldithiocarbamate,5,0.952347973
+Bis[tris(2-methylphenyl)phosphine]palladium(0) ,20,11.36,Ethyl acetate,Potassium phosphate tribasic,Sodium diethyldithiocarbamate,5,0.876189693
+Bis[tris(2-methylphenyl)phosphine]palladium(0) ,20,9.23,Ethyl acetate,Potassium bicarbonate,Sodium diethyldithiocarbamate,5,0.920005482
+Bis[tris(2-methylphenyl)phosphine]palladium(0) ,20,10.39,Ethyl acetate,Potassium carbonate,Sodium diethyldithiocarbamate,5,0.919901316
+Bis[tris(2-methylphenyl)phosphine]palladium(0) ,20,12.64,Ethyl acetate,Potassium hydroxide,Sodium diethyldithiocarbamate,5,0.860734649
+Bis[tris(2-methylphenyl)phosphine]palladium(0) ,20,11.36,Methyl isobutyl ketone,Potassium phosphate tribasic,Sodium diethyldithiocarbamate,5,0.909034406
+Bis[tris(2-methylphenyl)phosphine]palladium(0) ,20,9.23,Methyl isobutyl ketone,Potassium bicarbonate,Sodium diethyldithiocarbamate,5,0.932203108
+Bis[tris(2-methylphenyl)phosphine]palladium(0) ,20,10.39,Methyl isobutyl ketone,Potassium carbonate,Sodium diethyldithiocarbamate,5,0.906026637
+Bis[tris(2-methylphenyl)phosphine]palladium(0) ,20,12.64,Methyl isobutyl ketone,Potassium hydroxide,Sodium diethyldithiocarbamate,5,0.921193119
+Bis[tris(2-methylphenyl)phosphine]palladium(0) ,20,11.36,Cyclopentyl methyl ether,Potassium phosphate tribasic,Sodium diethyldithiocarbamate,5,0.960168539
+Bis[tris(2-methylphenyl)phosphine]palladium(0) ,20,9.23,Cyclopentyl methyl ether,Potassium bicarbonate,Sodium diethyldithiocarbamate,5,0.962679775
+Bis[tris(2-methylphenyl)phosphine]palladium(0) ,20,10.39,Cyclopentyl methyl ether,Potassium carbonate,Sodium diethyldithiocarbamate,5,0.942595506
+Bis[tris(2-methylphenyl)phosphine]palladium(0) ,20,12.64,Cyclopentyl methyl ether,Potassium hydroxide,Sodium diethyldithiocarbamate,5,0.979668539
+Bis[tris(2-methylphenyl)phosphine]palladium(0) ,20,9.26,2-methyltetrahydrofuran,Potassium phosphate tribasic,N-acetyl cysteine,10,0.953621469
+Bis[tris(2-methylphenyl)phosphine]palladium(0) ,20,8.42,2-methyltetrahydrofuran,Potassium bicarbonate,N-acetyl cysteine,10,0.96519209
+Bis[tris(2-methylphenyl)phosphine]palladium(0) ,20,9.73,2-methyltetrahydrofuran,Potassium carbonate,N-acetyl cysteine,10,0.974248588
+Bis[tris(2-methylphenyl)phosphine]palladium(0) ,20,12.79,2-methyltetrahydrofuran,Potassium hydroxide,N-acetyl cysteine,10,0.934372881
+Bis[tris(2-methylphenyl)phosphine]palladium(0) ,20,9.26,Toluene,Potassium phosphate tribasic,N-acetyl cysteine,10,0.956807432
+Bis[tris(2-methylphenyl)phosphine]palladium(0) ,20,8.42,Toluene,Potassium bicarbonate,N-acetyl cysteine,10,0.962747748
+Bis[tris(2-methylphenyl)phosphine]palladium(0) ,20,9.73,Toluene,Potassium carbonate,N-acetyl cysteine,10,0.959560811
+Bis[tris(2-methylphenyl)phosphine]palladium(0) ,20,12.79,Toluene,Potassium hydroxide,N-acetyl cysteine,10,0.935945946
+Bis[tris(2-methylphenyl)phosphine]palladium(0) ,20,9.26,Ethyl acetate,Potassium phosphate tribasic,N-acetyl cysteine,10,0.957264254
+Bis[tris(2-methylphenyl)phosphine]palladium(0) ,20,8.42,Ethyl acetate,Potassium bicarbonate,N-acetyl cysteine,10,0.963174342
+Bis[tris(2-methylphenyl)phosphine]palladium(0) ,20,9.73,Ethyl acetate,Potassium carbonate,N-acetyl cysteine,10,0.94183114
+Bis[tris(2-methylphenyl)phosphine]palladium(0) ,20,12.79,Ethyl acetate,Potassium hydroxide,N-acetyl cysteine,10,0.921705044
+Bis[tris(2-methylphenyl)phosphine]palladium(0) ,20,9.26,Methyl isobutyl ketone,Potassium phosphate tribasic,N-acetyl cysteine,10,0.973307436
+Bis[tris(2-methylphenyl)phosphine]palladium(0) ,20,8.42,Methyl isobutyl ketone,Potassium bicarbonate,N-acetyl cysteine,10,0.961526082
+Bis[tris(2-methylphenyl)phosphine]palladium(0) ,20,9.73,Methyl isobutyl ketone,Potassium carbonate,N-acetyl cysteine,10,0.965105438
+Bis[tris(2-methylphenyl)phosphine]palladium(0) ,20,12.79,Methyl isobutyl ketone,Potassium hydroxide,N-acetyl cysteine,10,0.948490566
+Bis[tris(2-methylphenyl)phosphine]palladium(0) ,20,9.26,Cyclopentyl methyl ether,Potassium phosphate tribasic,N-acetyl cysteine,10,0.931393258
+Bis[tris(2-methylphenyl)phosphine]palladium(0) ,20,8.42,Cyclopentyl methyl ether,Potassium bicarbonate,N-acetyl cysteine,10,0.960235955
+Bis[tris(2-methylphenyl)phosphine]palladium(0) ,20,9.73,Cyclopentyl methyl ether,Potassium carbonate,N-acetyl cysteine,10,0.92555618
+Bis[tris(2-methylphenyl)phosphine]palladium(0) ,20,12.79,Cyclopentyl methyl ether,Potassium hydroxide,N-acetyl cysteine,10,0.931314607
